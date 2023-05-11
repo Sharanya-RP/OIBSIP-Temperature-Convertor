@@ -1,2 +1,2 @@
 ## Temperature Convertor
-A simple temperature convertor website to convert celcius to farenheit.
+A simple temperature convertor website to convert celcius and farenheit values.
